@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Saint-Honoré",
+    "image": "img1",
+    "description": "The Saint Honoré dessert - a culinary masterpiece that embodies elegance, tradition, and exquisite flavor. Named after the revered patron saint of bakers and pastry chefs, this heavenly creation is a true testament to the artistry of French pastry craftsmanship."
+  },
+  {
+    "name": "Opéra",
+    "image": "img2",
+    "description": "The sensory and elegance delight with the Opera, a quintessential pastry that embodies sophistication, passion, and culinary excellence. Inspired by the grandeur of the opera house, this indulgent dessert is a symphony of flavors and textures, carefully orchestrated to captivate both the palate and the imagination."
+  },
+  {
+    "name": "Heart Macarons",
+    "image": "img3",
+    "description": "Indulge in the epitome of romance and luxury with our exquisite Heart Macarons adorned with delicate pieces of gold. Each bite is a symphony of sweetness, elegance, and opulence, meticulously crafted to enchant both the palate and the eye."
+  },
+  {
+    "name": "Paris-Brest",
+    "image": "img4",
+    "description": "Our exquisite Paris-Brest dessert, a sublime symphony of flavor and texture that pays homage to the historic cycling race from Paris to Brest. Crafted with precision and passion, this iconic delicacy captivates the senses and transports you to the romantic streets of Paris with every decadent bite."
+  }
+]
